@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e089e0ca-b6a7-4682-ad09-217cbf71586a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,18 +17,58 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1099600278">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="30" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="horizon-youtube-mp3" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-              <folding />
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="212" column="45" lean-forward="true" selection-start-line="212" selection-start-column="45" selection-end-line="212" selection-end-column="45" />
+              <folding>
+                <element signature="e#4958#5436#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -44,6 +83,7 @@
       <list>
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/lib/index.js" />
       </list>
     </option>
   </component>
@@ -53,83 +93,71 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="horizon-youtube-mp3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="horizon-youtube-mp3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="horizon-youtube-mp3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="horizon-youtube-mp3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="horizon-youtube-mp3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="horizon-youtube-mp3" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="4.6.1" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="options.lastSelected" value="settings.nodejs" />
-    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
-    <property name="javascript.nodejs.core.library.configured.version" value="4.6.1" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="FullScreen" value="true" />
-    <property name="js.eslint.eslintPackage" value="" />
-    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
-      <method />
-    </configuration>
-    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
-      <method />
-    </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
       <config-file value="" />
       <node-interpreter value="project" />
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
       <method />
     </configuration>
     <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
@@ -145,31 +173,11 @@
       <tasks />
       <arguments />
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory />
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui />
-      <extra-mocha-options />
-      <test-kind>DIRECTORY</test-kind>
-      <test-directory />
-      <recursive>false</recursive>
-      <method />
+      <method v="2" />
     </configuration>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -181,215 +189,76 @@
       <workItem from="1480272443662" duration="67000" />
       <workItem from="1480272542982" duration="2080000" />
       <workItem from="1480279493236" duration="2113000" />
+      <workItem from="1577588161468" duration="313000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4260000" />
+    <option name="totallyTimeSpent" value="4573000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="23" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30958903" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info active="true" id="Project" order="0" visible="true" weight="0.2536349" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.31779662" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="255">
-            <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <caret line="17" selection-start-line="17" selection-end-line="17" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/shortid/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-103">
-          <caret line="52" column="2" lean-forward="false" selection-start-line="52" selection-start-column="2" selection-end-line="52" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/fluent-ffmpeg/Makefile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/fluent-ffmpeg/LICENSE">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/fluent-ffmpeg/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/fluent-ffmpeg/.npmignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/fluent-ffmpeg/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-868">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/fluent-ffmpeg/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding>
-              <marker date="1462047272000" expanded="true" signature="8363:8382" ph="/*...*/" />
-              <marker date="1462047272000" expanded="true" signature="8441:8475" ph="/*...*/" />
-              <marker date="1462047272000" expanded="true" signature="8652:8724" ph="[...]" />
-              <marker date="1462047272000" expanded="true" signature="11781:11916" ph="[...]" />
-              <marker date="1462047272000" expanded="true" signature="11787:11839" ph="{&quot;filter&quot;: 'volume'...}" />
-              <marker date="1462047272000" expanded="true" signature="11845:11912" ph="{&quot;filter&quot;: 'silencedetect'...}" />
-              <marker date="1462047272000" expanded="true" signature="11969:12023" ph="{&quot;filter&quot;: 'volume'...}" />
-              <marker date="1462047272000" expanded="true" signature="12029:12103" ph="{&quot;filter&quot;: 'silencedetect'...}" />
-              <marker date="1462047272000" expanded="true" signature="14622:14757" ph="[...]" />
-              <marker date="1462047272000" expanded="true" signature="14628:14682" ph="{&quot;filter&quot;: 'fade'...}" />
-              <marker date="1462047272000" expanded="true" signature="14688:14753" ph="{&quot;filter&quot;: 'pad'...}" />
-              <marker date="1462047272000" expanded="true" signature="14812:14870" ph="{&quot;filter&quot;: 'fade'...}" />
-              <marker date="1462047272000" expanded="true" signature="14876:14972" ph="{&quot;filter&quot;: 'filter2'...}" />
-              <marker date="1462047272000" expanded="true" signature="18360:18750" ph="//..." />
-              <marker date="1462047272000" expanded="true" signature="19141:19563" ph="//..." />
-              <marker date="1462047272000" expanded="true" signature="22584:22629" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="24523:24542" ph="/*...*/" />
-              <marker date="1462047272000" expanded="true" signature="24602:24636" ph="/*...*/" />
-              <marker date="1462047272000" expanded="true" signature="24815:24887" ph="[...]" />
-              <marker date="1462047272000" expanded="true" signature="26042:26258" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="26422:26464" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="28420:29815" ph="[...]" />
-              <marker date="1462047272000" expanded="true" signature="28575:28670" ph="{&quot;filter&quot;: 'split'...}" />
-              <marker date="1462047272000" expanded="true" signature="28756:28846" ph="{&quot;filter&quot;: 'lutrgb'...}" />
-              <marker date="1462047272000" expanded="true" signature="28932:29024" ph="{&quot;filter&quot;: 'lutrgb'...}" />
-              <marker date="1462047272000" expanded="true" signature="29110:29201" ph="{&quot;filter&quot;: 'lutrgb'...}" />
-              <marker date="1462047272000" expanded="true" signature="29208:29303" ph="//..." />
-              <marker date="1462047272000" expanded="true" signature="29308:29408" ph="{&quot;filter&quot;: 'pad'...}" />
-              <marker date="1462047272000" expanded="true" signature="29415:29507" ph="//..." />
-              <marker date="1462047272000" expanded="true" signature="29512:29626" ph="{&quot;filter&quot;: 'overlay'...}" />
-              <marker date="1462047272000" expanded="true" signature="29695:29810" ph="{&quot;filter&quot;: 'overlay'...}" />
-              <marker date="1462047272000" expanded="true" signature="30246:30315" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="30782:30882" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="32025:32093" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="32376:32430" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="33066:33128" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="33485:33534" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="33995:34054" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="34080:34127" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="34756:34815" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="34841:34888" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="35289:35348" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="35374:35421" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="35492:35558" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="36281:36340" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="36366:36413" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="36801:36860" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="36886:36930" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="40195:40375" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="40292:40369" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="40471:40577" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="40506:40554" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="41193:41218" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="41419:41449" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="41796:41860" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="41958:42022" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="42851:45766" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="42866:45103" ph="[...]" />
-              <marker date="1462047272000" expanded="true" signature="42872:44047" ph="{&quot;codec_name&quot;: &quot;h264&quot;...}" />
-              <marker date="1462047272000" expanded="true" signature="43627:43900" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="43916:44041" ph="{&quot;creation_time&quot;: &quot;1970-01-01 00:00:00&quot;...}" />
-              <marker date="1462047272000" expanded="true" signature="44053:45099" ph="{&quot;codec_name&quot;: &quot;aac&quot;...}" />
-              <marker date="1462047272000" expanded="true" signature="44679:44952" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="44968:45093" ph="{&quot;creation_time&quot;: &quot;1970-01-01 00:00:00&quot;...}" />
-              <marker date="1462047272000" expanded="true" signature="45117:45764" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="45449:45760" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="46022:46086" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="46138:46200" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="46256:46322" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="46376:46440" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="46722:46830" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="46737:46821" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="47061:47264" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="47076:47255" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="48247:48477" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="48269:48468" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="48766:48988" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="48783:48979" ph="{...}" />
-              <marker date="1462047272000" expanded="true" signature="51541:51634" ph="/** ... ...*/" />
-              <marker date="1462047272000" expanded="true" signature="51682:51715" ph="/** ... ...*/" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/shortid/package.json" />
+    <entry file="file://$PROJECT_DIR$/node_modules/fluent-ffmpeg/Makefile" />
+    <entry file="file://$PROJECT_DIR$/node_modules/fluent-ffmpeg/LICENSE" />
+    <entry file="file://$PROJECT_DIR$/node_modules/fluent-ffmpeg/.travis.yml" />
+    <entry file="file://$PROJECT_DIR$/node_modules/fluent-ffmpeg/.npmignore" />
+    <entry file="file://$PROJECT_DIR$/node_modules/fluent-ffmpeg/package.json" />
+    <entry file="file://$PROJECT_DIR$/node_modules/fluent-ffmpeg/README.md" />
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-          <folding />
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="212" column="45" lean-forward="true" selection-start-line="212" selection-start-column="45" selection-end-line="212" selection-end-column="45" />
+          <folding>
+            <element signature="e#4958#5436#0" />
+          </folding>
         </state>
       </provider>
     </entry>
